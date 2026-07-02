@@ -1,19 +1,19 @@
-# Привет! Меня зовут Шокрухбек Шодиев 👋
+# Hi there! I'm Shohruhbek Shodiev 👋
 
-Веб- и игровой разработчик. Я увлеченный разработчик, сосредоточенный на создании современных веб-приложений с использованием HTML и Python, а также создании интерактивных 2D-игр с помощью движка Godot.
-
----
-
-* 🌍 Я живу в Узбекистане
-* 💻 Мое портфолио можно посмотреть по ссылке [Мой профиль](https://github.com/shohruhbek4090)
-* ✉️ Вы можете связаться со мной по адресу: b9949898@gmail.com
-* 🧠 В настоящее время изучаю продвинутый GDScript, разработку бэкенда на Python и веб-дизайн
-* 👥 Ищу возможности для сотрудничества в проектах по разработке 2D-игр с открытым исходным кодом и веб-разработке
-* 💬 Спросите меня о создании игр, потому что написание кода — моя любимая суперспособность
+Web and Game Developer. I am a passionate developer focused on creating modern web applications using HTML and Python, as well as building interactive 2D games with the Godot engine.
 
 ---
 
-### Технологии и инструменты
+* 🌍 I'm based in Uzbekistan
+* 💻 You can check out my portfolio here: [My Profile](https://github.com/shohruhbek4090)
+* ✉️ You can reach me at: b9949898@gmail.com
+* 🧠 Currently learning advanced GDScript, Python backend development, and Web Design
+* 👥 I’m looking to collaborate on open-source 2D game development and web projects
+* 💬 Ask me about game creation, because coding is my favorite superpower
+
+---
+
+### Tech Stack & Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -28,10 +28,10 @@
 
 ---
 
-### Моя статистика на GitHub
+### My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shohruhbek4090&show_icons=true&theme=tokyonight" alt="Статистика Shohruhbek4090" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shohruhbek4090&show_icons=true&theme=tokyonight" alt="Shohruhbek4090's Stats" />
 </p>
 
 <p align="left">
