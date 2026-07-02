@@ -1,16 +1,35 @@
-Привет! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Шохрухбек Шодиев. ====================================================================================================================================================== Веб- и игровой разработчик -------------------- Я увлеченный разработчик, сосредоточенный на создании современных Разработка веб-приложений с использованием HTML и Python, а также создание интерактивных 2D-игр с помощью движка Godot. * 🌍 Я живу в Узбекистане * 🖥️ Мое портфолио можно посмотреть по ссылке [Мой профиль](http://github.com/shohruhbek4090?tab=repositories) * ✉️ Вы можете связаться со мной по адресу [b9949898@gmail.com](mailto:b9949898@gmail.com) * 🧠 В настоящее время изучаю продвинутый GDScript, разработку бэкенда на Python и веб-дизайн * 👥 Ищу возможности для сотрудничества в проектах по разработке 2D-игр с открытым исходным кодом и веб-разработке * 💬 Спросите меня о создании игр, потому что написание кода — моя любимая суперспособность.
+# Привет! Меня зовут Шокрухбек Шодиев 👋
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> <a <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a> <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a> <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
+Веб- и игровой разработчик. Я увлеченный разработчик, сосредоточенный на создании современных веб-приложений с использованием HTML и Python, а также создании интерактивных 2D-игр с помощью движка Godot.
+
+---
+
+* 🌍 Я живу в Узбекистане
+* 💻 Мое портфолио можно посмотреть по ссылке [Мой профиль](https://github.com/shohruhbek4090)
+* ✉️ Вы можете связаться со мной по адресу: b9949898@gmail.com
+* 🧠 В настоящее время изучаю продвинутый GDScript, разработку бэкенда на Python и веб-дизайн
+* 👥 Ищу возможности для сотрудничества в проектах по разработке 2D-игр с открытым исходным кодом и веб-разработке
+* 💬 Спросите меня о создании игр, потому что написание кода — моя любимая суперспособность
+
+---
+
+### Технологии и инструменты
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="blender" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
 </p>
 
-### Социальные сети
+---
 
-<p align="left"> <a href="https://www.github.com/shohruhbek4090" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture></a> </p>
-### Значки
+### Моя статистика на GitHub
 
-<b>Моя статистика на GitHub</b>
+![Статистика Shohruhbek4090](https://github-readme-stats.vercel.app/api?username=shohruhbek4090&show_icons=true&theme=dark)
 
-<a href="http://www.github.com/shohruhbek4090"><img src="https://github-readme-stats.vercel.app/api?username=shohruhbek4090&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Статистика Shohruhbek4090 на GitHub" /></a>
-
-<a href="https://github.com/shohruhbek4090" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohruhbek4090&langs_count=10&title_color=0891b2&text_color=000000&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shohruhbek4090&layout=compact&theme=dark)
